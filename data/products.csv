@@ -1,0 +1,201 @@
+item_id,product_name
+P001,Amul Butter 500g
+P002,Amul Taaza Milk 1L
+P003,Mother Dairy Curd 400g
+P004,Britannia Cheese Slices
+P005,Amul Paneer 200g
+P006,Nestle A+ Milk 1L
+P007,Amul Ghee 1L
+P008,Epigamia Greek Yogurt
+P009,Amul Fresh Cream 250ml
+P010,Milky Mist Mozzarella Cheese
+P011,Lays Magic Masala Chips
+P012,Britannia Good Day Biscuits
+P013,Parle-G Biscuits
+P014,Cadbury Dairy Milk Chocolate
+P015,Haldiram Aloo Bhujia
+P016,Too Yumm Multigrain Chips
+P017,Oreo Chocolate Creme Biscuits
+P018,Act II Popcorn
+P019,Yoga Bar Protein Bar
+P020,Hide & Seek Cookies
+P021,Tata Tea Gold
+P022,Nescafe Classic Coffee
+P023,Real Mango Juice
+P024,Coca-Cola 750ml
+P025,Bisleri Mineral Water
+P026,Red Bull Energy Drink
+P027,Bru Instant Coffee
+P028,Lipton Green Tea Bags
+P029,Tang Orange Drink Powder
+P030,Paper Boat Aam Panna
+P031,Dettol Handwash
+P032,Dove Beauty Soap
+P033,Head & Shoulders Shampoo
+P034,Colgate Strong Teeth Toothpaste
+P035,Oral-B Toothbrush
+P036,Nivea Body Lotion
+P037,Pears Pure & Gentle Soap
+P038,Himalaya Neem Face Wash
+P039,Whisper Sanitary Pads
+P040,Park Avenue Deodorant
+P041,Surf Excel Detergent Powder
+P042,Vim Dishwash Gel
+P043,Harpic Toilet Cleaner
+P044,Lizol Floor Cleaner
+P045,Comfort Fabric Conditioner
+P046,Scotch-Brite Scrub Pad
+P047,Huggies Garbage Bags
+P048,Tissue Paper Pack
+P049,Ariel Matic Liquid
+P050,Colin Glass Cleaner
+P051,India Gate Basmati Rice 5kg
+P052,Aashirvaad Atta 5kg
+P053,Tata Salt 1kg
+P054,Fortune Sunflower Oil 1L
+P055,Tata Sampann Toor Dal
+P056,Madhur Sugar 1kg
+P057,Pillsbury Chakki Fresh Atta
+P058,Saffola Gold Cooking Oil
+P059,Moong Dal 1kg
+P060,Everest Garam Masala
+P061,Coconut Milk Soap
+P062,Coconut Milk Beverage
+P063,Protein Bar Chocolate
+P064,Tea Powder 250g
+P065,Hair Oil with Coconut
+P066,Coconut Cooking Oil
+P067,Baby Cereal Food
+P068,Pet Food Chicken Flavor
+P069,Aluminium Foil Roll
+P070,Toilet Tissue Roll
+P071,Instant Noodles
+P072,Tomato Ketchup
+P073,Mayonnaise Jar
+P074,Peanut Butter
+P075,Frozen Green Peas
+P076,Vanilla Ice Cream
+P077,Dark Chocolate Bar
+P078,Salted Cashews
+P079,Roasted Chana
+P080,Masala Oats
+P081,Bottled Lemon Water
+P082,Instant Lemon Tea
+P083,Face Moisturizer
+P084,Hand Sanitizer
+P085,Laundry Soap Bar
+P086,Dishwashing Bar
+P087,Floor Cleaning Liquid
+P088,Baking Soda
+P089,Chana Dal 1kg
+P090,Rajma 500g
+P091,Groundnut Oil 1L
+P092,Black Pepper Powder
+P093,Cereal Flakes
+P094,Energy Granola Bar
+P095,Mint Candy
+P096,Vanilla Wafer Biscuits
+P097,Iced Coffee Can
+P098,Orange Soda
+P099,Rose Water Toner
+P100,Baby Shampoo
+P101,Washing Machine Cleaner
+P102,Kitchen Surface Cleaner
+P103,Broom Stick
+P104,Garlic Paste Jar
+P105,Pickle Mango Jar
+P106,Tomato Soup Packet
+P107,Pasta 500g
+P108,Macaroni 500g
+P109,Corn Flour 500g
+P110,Turmeric Powder
+P111,Cumin Seeds
+P112,Honey Bottle
+P113,Jam Strawberry
+P114,Condensed Milk Can
+P115,Buttermilk 500ml
+P116,Cheese Spread
+P117,Chocolate Milk Drink
+P118,Lassi Sweet 200ml
+P119,Butter Cookies
+P120,Cheese Crackers
+P121,Chocolate Protein Bar
+P122,Green Tea Powder
+P123,Instant Soup Cup
+P124,Baby Diapers
+P125,Baby Wipes
+P126,Room Freshener Spray
+P127,Mosquito Repellent Refill
+P128,LED Bulb 9W
+P129,AA Batteries Pack
+P130,Notebook A5
+P131,Ballpoint Pen Blue
+P132,Pet Shampoo
+P133,Dog Treats
+P134,Cat Litter 5kg
+P135,Vinegar Bottle
+P136,Soy Sauce Bottle
+P137,Olive Oil Cooking
+P138,Mustard Oil
+P139,Sona Masoori Rice 5kg
+P140,Poha 1kg
+P141,Rava 1kg
+P142,Besan 1kg
+P143,Puffed Rice
+P144,Banana Chips
+P145,Mixture Namkeen
+P146,Butter Popcorn
+P147,Mango Nectar
+P148,Packaged Drinking Water
+P149,Cold Coffee Bottle
+P150,Herbal Tea Bags
+P151,Shaving Cream
+P152,Lip Balm
+P153,Sunscreen SPF 50
+P154,Hair Conditioner
+P155,Toilet Cleaner Gel
+P156,Bleach Cleaning Liquid
+P157,Laundry Detergent Pods
+P158,Paper Napkins
+P159,Dishwasher Tablets
+P160,Rice Bran Oil
+P161,Iodized Salt
+P162,Brown Sugar
+P163,Masoor Dal
+P164,Cardamom Powder
+P165,Dry Yeast Packet
+P166,Canned Corn
+P167,Canned Chickpeas
+P168,Chocolate Syrup
+P169,Maple Syrup
+P170,Instant Porridge Mix
+P171,Milk Powder
+P172,Yogurt Drink
+P173,Cottage Cheese
+P174,Cream Cheese
+P175,Salted Crackers
+P176,Fruit Gummies
+P177,Sparkling Water Lime
+P178,Malt Drink Powder
+P179,Antibacterial Soap
+P180,Cotton Buds
+P181,Air Freshener Refill
+P182,Scrubbing Brush
+P183,Garbage Bags Large
+P184,Wheat Dalia
+P185,Oats 1kg
+P186,Sambar Powder
+P187,Peanut Chikki
+P188,Roasted Makhana
+P189,Coconut Milk Soap
+P190,Amul Butter 500g
+P191,
+P192,Mystery Product XYZ
+P193,Sample Product 193
+P194,Sample Product 194
+P195,Sample Product 195
+P196,Sample Product 196
+P197,Sample Product 197
+P198,Sample Product 198
+P199,Sample Product 199
+P200,Sample Product 200

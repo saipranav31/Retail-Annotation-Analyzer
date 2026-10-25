@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+database/*.db
+reports/*.xlsx
+reports/*.json
+reports/*.csv
