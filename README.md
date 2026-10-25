@@ -81,11 +81,3 @@ Edit category rules in `src/annotate.py` and add more product names to `data/pro
 python -m unittest discover -s tests -v
 ```
 
-## Suggested resume bullet (use only after running and verifying)
-
-**Retail Product Annotation & Data Quality Analyzer | Python, Pandas, SQL, SQLite, Excel**
-- Built a Python pipeline to suggest retail product categories and flag missing, duplicate, and uncertain records for review.
-- Stored product and annotation records in SQLite and wrote SQL checks for data validation.
-- Generated an Excel quality report with category summaries, reference-set evaluation, and review queues.
-
-Add only metrics you have personally verified from the generated reports. Explain that category suggestions are keyword-rule-based, not model predictions.
