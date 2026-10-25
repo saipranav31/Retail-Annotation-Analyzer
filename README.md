@@ -1,4 +1,15 @@
-🛒 Retail Product Annotation & Data Quality Analyzer
+
+<h1 align="center">🛒 Retail Product Annotation &amp; Data Quality Analyzer</h1>
+
+<p align="center">
+  <strong>An End-to-End Retail Data Annotation &amp; Quality Validation Pipeline</strong>
+</p>
+
+<p align="center">
+  Python • Pandas • SQL • SQLite • Excel
+</p>
+
+---
 
 An end-to-end Python data workflow for retail product categorization, data-quality validation, SQL analysis, and automated Excel reporting.
 
