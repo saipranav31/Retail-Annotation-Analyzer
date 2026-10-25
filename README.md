@@ -1,4 +1,4 @@
-# Jocata Retail Product Annotation & Data Quality Analyzer
+# Retail Product Annotation & Data Quality Analyzer
 
 A small, solo-built project that demonstrates retail product annotation, data validation, SQL querying, and Excel reporting using Python, pandas, SQLite, and openpyxl.
 
